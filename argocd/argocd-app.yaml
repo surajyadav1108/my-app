@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-username/your-repo.git
+    repoURL: https://github.com/surajyadav1108/my-app.git
     path: k8s
   destination:
     server: 'https://kubernetes.default.svc'
